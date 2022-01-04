@@ -341,6 +341,7 @@ Table of Contents
 
 ## Testing
 
+  * [lambdatest.com/](https://www.lambdatest.com/) — Manual and automated browser testing,Modile App Testing in Real Devices [free for Open Source](https://www.lambdatest.com/hypertest).HyperTest platform comes with feature packed hosted runners for every major OS including Windows, MacOS, and Linux containers. The runners come with pre-installed support for all major programming languages and frameworks including Java, Node.js, Python, PHP, GO, C#, Rust, and Ruby.
   * [Applitools.com](https://applitools.com/) — smart visual validation for web, native mobile and desktop apps. Integrates with almost all automation solutions (like Selenium and Karma) and remote runners (Sauce Labs, Browser Stack). free for open source. A free tier for a single user with limited checkpoints per week.
   * [browserstack.com](https://www.browserstack.com/) — Manual and automated browser testing, [free for Open Source](https://www.browserstack.com/open-source?ref=pricing)
   * [checkbot.io](https://www.checkbot.io/) — Browser extension that tests if your website follows 50+ SEO, speed and security best practices. Free tier for smaller websites.
